@@ -1,7 +1,8 @@
 #+title: 如何读一本书-笔记
 #+author: mxCynic
 #+date: 2024-01-12
-#+TABLE_OF_CONTENTS: headlines 3
+#+TABLE_OF_CONTENTS: headlines 2
+#+OPTIONS: toc:nil
 
 * 第一章 阅读的活力与艺术
 ** 粗略的给阅读艺术下的定义:
